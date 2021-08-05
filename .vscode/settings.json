@@ -1,0 +1,13 @@
+{
+  "python.testing.unittestArgs": [
+    "-v",
+    "-s",
+    "./pychallenge/test",
+    "-p",
+    "*test.py"
+  ],
+  "python.testing.nosetestsEnabled": false,
+  "python.testing.unittestEnabled": true,
+  "editor.formatOnSave": true,
+  "pythonTestExplorer.testFramework": "unittest"
+}
