@@ -1,6 +1,5 @@
 # http://www.pythonchallenge.com/pc/def/peak.html
 URL = "http://www.pythonchallenge.com/pc/def/banner.p"
-from pprint import pprint
 
 
 def run():
